@@ -1,3 +1,4 @@
+![remote-control-competition](https://user-images.githubusercontent.com/44240533/222984248-aa65c70f-db1f-4ef2-b222-bcb39bcd6771.svg)
 # Remote Control Competition
 
 Welcome to Remote Control Competition on Exercism's Java Track.
